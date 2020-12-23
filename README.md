@@ -5,7 +5,7 @@
 ##### Global Distributor: [Springer](https://www.springer.com/gp)
 ##### In Store Date: First Quarter 2021
 
-![alt text](apress.jpg "Book cover")
+<img src="apress.jpg" width="300" height="400" />
 
 ## Book Description: 
 
