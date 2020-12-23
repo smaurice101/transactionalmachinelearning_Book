@@ -2,14 +2,14 @@
 
 <table>
 <tr>
-  <th> Details</th>
+  <th> Book Details</th>
 <th> Book Cover</th>
 <th>Book Description</th>
 </tr>
 <tr>
   <td width=200  valign="top">
+    
 ### Author: Sebastian Maurice, PhD
-
 #### Publisher: [Apress Publisher](https://www.apress.com/us)
 ##### Global Distributor: [Springer](https://www.springer.com/gp)
 ##### In Store Date: First Quarter 2021
