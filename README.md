@@ -12,6 +12,7 @@
 ### Author: [Sebastian Maurice, PhD](https://www.linkedin.com/in/sebastianmaurice/)
 #### Publisher: [Apress](https://www.apress.com/us)
 ##### Global Distributor: [Springer](https://www.springer.com/gp)
+<a href="http://example.com/" target="_blank">example</a>
 ##### In Store Date: First Quarter 2021
 #### [Read TML Blog On Confluent Website](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=tm.devx_ch.transactional-machine-learning-with-maads-viper-and-apache-kafka_content.analytics-)
 
