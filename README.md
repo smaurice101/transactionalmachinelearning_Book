@@ -9,7 +9,7 @@
 <tr>
   <td width=200  valign="top">
     
-### Author: Sebastian Maurice, PhD
+### Author: [Sebastian Maurice, PhD](https://www.linkedin.com/in/sebastianmaurice/)
 #### Publisher: [Apress Publisher](https://www.apress.com/us)
 ##### Global Distributor: [Springer](https://www.springer.com/gp)
 ##### In Store Date: First Quarter 2021
