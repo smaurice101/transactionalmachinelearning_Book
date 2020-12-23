@@ -1,4 +1,13 @@
 # Transactional Machine Learning with Data Streams and AutoML
+
+<table>
+<tr>
+  <th> Details</th>
+<th> Book Cover</th>
+<th>Book Description</th>
+</tr>
+<tr>
+  <td width=200  valign="top">
 ### Author: Sebastian Maurice, PhD
 
 #### Publisher: [Apress Publisher](https://www.apress.com/us)
@@ -6,12 +15,7 @@
 ##### In Store Date: First Quarter 2021
 #### [Read TML Blog On Confluent Website](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=tm.devx_ch.transactional-machine-learning-with-maads-viper-and-apache-kafka_content.analytics-)
 
-<table>
-<tr>
-<th> Book Cover</th>
-<th>Book Description</th>
-</tr>
-<tr>
+</td>
 <td width=300  valign="top" style="vertical-align:top">
 <img style="float: right;" src="apress.jpg" width="300" height="400" />
 </td>
