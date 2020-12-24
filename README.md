@@ -7,7 +7,7 @@
 <th>Book Description</th>
 </tr>
 <tr>
-  <td width=250  valign="top">
+  <td width=270  valign="top">
     
 #### Author: [Sebastian Maurice, PhD](https://www.linkedin.com/in/sebastianmaurice/)
 #### Publisher: [Apress](https://www.apress.com/us)
