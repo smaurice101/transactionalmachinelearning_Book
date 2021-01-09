@@ -16,6 +16,7 @@
 ##### Pages: 280pp
 #### [Read TML Blog On Confluent Website](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=tm.devx_ch.transactional-machine-learning-with-maads-viper-and-apache-kafka_content.analytics-)
 
+#### [TML Technologies](https://github.com/smaurice101/transactionalmachinelearning)
 </td>
 <td width=300  valign="top" style="vertical-align:top">
 <img style="float: right;" src="apress.jpg" width="300" height="400" />
