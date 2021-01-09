@@ -10,6 +10,7 @@
   <td width=270  valign="top">
     
 #### Author: [Sebastian Maurice, PhD](https://www.linkedin.com/in/sebastianmaurice/)
+#### Email: sebastian.maurice@otics.ca 
 #### Publisher: [Apress](https://www.apress.com/us)
 ##### Global Distributor: [Springer](https://www.springer.com/gp)
 ##### In Store Date: First Quarter 2021
