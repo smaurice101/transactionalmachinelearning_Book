@@ -24,7 +24,7 @@
 </td>
 <td>
 
-**_Fast data requires fast machine learning_**.  Understand how to apply auto machine learning to data streams and create transactional machine learning (TML) solutions that are **_frictionless_** (require minimal to no human intervention) and **_elastic_** (machine learning solutions that can scale up or down by controlling the number of data streams, algorithms, and users of the insights).  *This book will strengthen your knowledge of the inner workings of TML solutions using data streams with auto machine learning integrated with Apache Kafka.*  You will be at the forefront of an exciting area of machine learning that is focused on speed of data and algorithm creation, scale, and automation.
+**_Fast data requires fast machine learning for fast decision-making_**.  Understand how to apply auto machine learning to data streams and create transactional machine learning (TML) solutions that are **_frictionless_** (require minimal to no human intervention) and **_elastic_** (machine learning solutions that can scale up or down by controlling the number of data streams, algorithms, and users of the insights).  *This book will strengthen your knowledge of the inner workings of TML solutions using data streams with auto machine learning integrated with Apache Kafka.*  You will be at the forefront of an exciting area of machine learning that is focused on speed of data and algorithm creation, scale, and automation.
 
 TML gives rise in the industy to a **_Data Stream Scientist_** versus a **_Data Scientist_** in conventional machine learning (CML). 
 
