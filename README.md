@@ -3,8 +3,8 @@
 <table>
 <tr>
   <th> Book Details</th>
-<th> Book Cover</th>
-<th>Book Description</th>
+<th> Book Description</th>
+<th>Book Cover</th>
 </tr>
 <tr>
   <td width=270  valign="top">
@@ -30,8 +30,8 @@ TML gives rise in the industy to a **_Data Stream Scientist_** versus a **_Data 
 By the end of the book, you will have a solid understanding of TML.  You will know how to build TML solutions with all the necessary details, and all the resources at your fingertips.   **_You will be at the technical and business forefronts, in the knowledge economy, where data creation speeds are increasing, requiring fast machine learning solutions that are frictionless and elastic that can create enormous business value, fast!_** 
 </td>
 </td>
-<td width=350  valign="top" style="vertical-align:top">
-<img style="float: right;" src="apressmaincover.jpg" width="350" height="400" />
+<td width=450  valign="top" style="vertical-align:top">
+<img style="float: right;" src="apressmaincover.jpg" width="450" height="400" />
 </td>
 </tr>
 </table>
