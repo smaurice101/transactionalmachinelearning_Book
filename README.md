@@ -31,7 +31,7 @@ By the end of the book, you will have a solid understanding of TML.  You will kn
 </td>
 </td>
 <td width=550  valign="top" style="vertical-align:top">
-<img style="float: right;" src="apressmaincover.jpg" width="550" height="500" />
+<img style="float: right;" src="apressmaincoverpublic.jpg" width="550" height="500" />
 </td>
 </tr>
 </table>
