@@ -20,7 +20,7 @@
 #### [TML Technologies](https://github.com/smaurice101/transactionalmachinelearning)
 </td>
 <td width=300  valign="top" style="vertical-align:top">
-<img style="float: right;" src="apresscover.jpg" width="300" height="400" />
+<img style="float: right;" src="apressmaincover.jpg" width="350" height="400" />
 </td>
 <td>
 
