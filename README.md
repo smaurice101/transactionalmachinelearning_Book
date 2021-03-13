@@ -17,6 +17,8 @@
 ##### Pages: 330
 #### [Read TML Blog On Confluent Website](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=tm.devx_ch.transactional-machine-learning-with-maads-viper-and-apache-kafka_content.analytics-)
 
+#### [Read TML Blog On Bank Fraud Detection](https://www.linkedin.com/pulse/bank-fraud-detection-data-streams-kafka-google-cloud-maurice-ph-d-/?trackingId=jfwKwh7jTRaStorHdc6NJA%3D%3D)
+
 #### [TML Technologies](https://github.com/smaurice101/transactionalmachinelearning)
 
 <td>
