@@ -14,7 +14,7 @@
 #### Publisher: [Apress](https://www.apress.com/us)
 ##### Global Distributor: [Springer](https://www.springer.com/gp)
 ##### In Store Date: June 2021
-#### [ISBN: 978-1-4842-7022-6](https://www.apress.com/gp/book/9781484270226)
+#### [ISBN: 978-1-4842-7022-6](https://www.apress.com/us/book/9781484270226)
 ##### Pages: 330
 #### [Read TML Blog On Confluent Website](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/?utm_source=linkedin&utm_medium=organicsocial&utm_campaign=tm.devx_ch.transactional-machine-learning-with-maads-viper-and-apache-kafka_content.analytics-)
 
