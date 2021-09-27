@@ -1,4 +1,4 @@
-# Book: Transactional Machine Learning with Data Streams and AutoML
+# Book: [Transactional Machine Learning with Data Streams and AutoML](https://www.apress.com/gp/book/9781484270226)
 
 <table>
 <tr>
