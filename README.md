@@ -1,4 +1,4 @@
-# Forthcoming Book: Transactional Machine Learning with Data Streams and AutoML
+# Book: Transactional Machine Learning with Data Streams and AutoML
 
 <table>
 <tr>
